@@ -1,3 +1,12 @@
+"""
+Industrial Stone Measurement 
+
+This script implements a computer vision–based 3D stone measurement system
+using a ZED stereo camera. It performs point cloud processing, segmentation,
+dimension estimation, and basic industrial analysis.
+
+"""
+
 import sys
 import os
 import time
